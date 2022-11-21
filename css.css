@@ -1,0 +1,13 @@
+html{
+	height: 100%;
+}
+body{
+	background-image: url(pexels-roberto-nickson-2559941.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+    color: white;
+}
+h1{
+	font-family: cursive;
+}
